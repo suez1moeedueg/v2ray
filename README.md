@@ -1,4 +1,7 @@
 # v2ray
+This project is tested with BrowserStack.
+This project is tested with BrowserStack
+
 # PyV2Ray
 
 PyV2Ray is a lightweight, Python-based implementation inspired by the V2Ray proxy server. This project serves as a basic example of how to create a proxy server with features similar to V2Ray, including user authentication and support for both HTTP and HTTPS traffic.
@@ -55,4 +58,5 @@ Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 License
 MIT License
-
+This project is tested with BrowserStack.
+This project is tested with BrowserStack
